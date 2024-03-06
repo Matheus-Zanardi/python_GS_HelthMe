@@ -1,0 +1,69 @@
+{
+  "usuarios": [
+    {
+      "nome": "matheus",
+      "email": "m@.com",
+      "senha": "M1"
+    },
+    {
+      "nome": "rodrigo",
+      "email": "r@.com",
+      "senha": "R1"
+    },
+    {
+      "nome": "eric",
+      "email": "eric@.com",
+      "senha": "Eric123"
+    },
+    {
+      "nome": "eric",
+      "email": "e@.com",
+      "senha": "E1"
+    },
+    {
+      "nome": "eric",
+      "email": "e@.com",
+      "senha": "E1"
+    },
+    {
+      "nome": "pedro",
+      "email": "p@.com",
+      "senha": "P1"
+    },
+    {
+      "nome": "alessandra",
+      "email": "ale@.com",
+      "senha": "Ale123"
+    },
+    {
+      "nome": "bia",
+      "email": "anabiabedin@gmail.com",
+      "senha": "Anabeatriz4."
+    },
+    {
+      "nome": "rodrigo",
+      "email": "r@.com",
+      "senha": "R1"
+    },
+    {
+      "nome": "gavinha",
+      "email": "gavinha@gmail.com",
+      "senha": "251213G"
+    },
+    {
+      "nome": "aaa",
+      "email": "m@.com",
+      "senha": "M1"
+    },
+    {
+      "nome": "domique",
+      "email": "domifalco29@gmail.com",
+      "senha": "Dom2901"
+    },
+    {
+      "nome": "mz",
+      "email": "mz@.com",
+      "senha": "M1"
+    }
+  ]
+}
